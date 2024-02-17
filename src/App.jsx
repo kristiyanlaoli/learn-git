@@ -1,11 +1,9 @@
-// import Header from "./components/macro/Header";
-import ButtonPlusMinus from "./components/micro/Button";
+import CheckoutPage from "./pages/CheckoutPage";
 
 function App() {
   return (
     <>
-      {/* <Header /> */}
-      <ButtonPlusMinus />
+      <CheckoutPage />
     </>
   );
 }
